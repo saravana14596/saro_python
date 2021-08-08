@@ -26,3 +26,4 @@ if h == "Yes" :
     numb()
 elif h == "No" :
     print("Your function has been done.")
+    Print("Github Changes")
